@@ -29,13 +29,15 @@ const AboutMe = () => {
                 <S.ContainerText>
                     <S.Title>
                         <p>👋🏼 Hello, i'm</p>
-                        <p>Iván Devia Acosta</p>
-                        <p>Backend Developer</p>
+                        <p>David Barrios Rojas Acosta</p>
+                        <p>Full stack Developer</p>
                     </S.Title>
                     <S.DescriptionText>
-                    Ing. de Sistemas, Mg. en Gestión de Tecnología Educativa, 
-                    Maestrante en Dirección Estratégica en Ing de Software, 
-                    con 17 años de experiencia en el sector productivo y educativo.
+                    Ing. de Sistemas, Con 2 años de experiencia en el desarrollo de software con 
+                    .NET CORE, javascript, Angular. 
+                    He diseñado e implementado tiendas virtuales utilizando CMS (WordPress). 
+                    Conocimiento en sintaxis SQL. 
+                    Adaptable al cambio , nuevas tecnologías y metodologías de desarrollo ágil.
                     </S.DescriptionText>
                     <S.ContainerIcons>
                     {socialNetworks.map((network, index)=>(
@@ -51,7 +53,7 @@ const AboutMe = () => {
                 </S.ContainerIcons>
                 </S.ContainerText>
                 <S.ContainerImage>
-                    <img src="/img/Logo.png" alt="Iván Devia - Backend Developer"/>
+                    <img src="/img/profile.png" alt="David Barrios Rojas - Full stack Developer"/>
                 </S.ContainerImage>
             </S.ContainerFlex>
         </S.ContainerAboutMe>

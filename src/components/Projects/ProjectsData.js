@@ -24,7 +24,7 @@ export const projectsPortfolio = [
         ],
         description: "Application created with React JS and CSS to make a request an external API of Rick & Morty.",
         repository: "AQUI DEBEN COLOCAR EL LINK DEL GITHUB DEL PROYECTO",
-        website:"#!" //ustedes deben colocar aquí el link del enlace público de netlify
+        website:"https://capable-torte-9fd90e.netlify.app/" //ustedes deben colocar aquí el link del enlace público de netlify
     },
     {
         title: "Todo list",
@@ -35,7 +35,7 @@ export const projectsPortfolio = [
         ],
         description: "Application created with React JS and to make a list of tasks where you can add or remove it.",
         repository: "AQUI DEBEN COLOCAR EL LINK DEL GITHUB DEL PROYECTO",
-        website:"#!" //ustedes deben colocar aquí el link del enlace público de netlify
+        website:"https://capable-torte-9fd90e.netlify.app/" //ustedes deben colocar aquí el link del enlace público de netlify
     },
     {
         title: "Simpsons API",
@@ -46,7 +46,7 @@ export const projectsPortfolio = [
         ],
         description: "Application created with React JS and Styled Components to make a request an external API of Simpsons.",
         repository: "AQUI DEBEN COLOCAR EL LINK DEL GITHUB DEL PROYECTO",
-        website:"#!" //ustedes deben colocar aquí el link del enlace público de netlify
+        website:"https://capable-torte-9fd90e.netlify.app/" //ustedes deben colocar aquí el link del enlace público de netlify
     },
     {
         title: "Marvel API",
@@ -59,7 +59,7 @@ export const projectsPortfolio = [
         ],
         description: "Application created with React JS, React-Router and Sass to make a request an external API of Marvel.",
         repository: "AQUI DEBEN COLOCAR EL LINK DEL GITHUB DEL PROYECTO",
-        website:"#!" //ustedes deben colocar aquí el link del enlace público de netlify
+        website:"https://capable-torte-9fd90e.netlify.app/" //ustedes deben colocar aquí el link del enlace público de netlify
     },
     {
         title: "Dynamic Form",
@@ -70,7 +70,7 @@ export const projectsPortfolio = [
         ],
         description: "Application of a landing page created with React JS and React Bootstrap to make a form with dynamic fields.",
         repository: "https://github.com/david-barrios98/dynamic-form",
-        website:"#!" //ustedes deben colocar aquí el link del enlace público de netlify
+        website:"https://capable-torte-9fd90e.netlify.app/" //ustedes deben colocar aquí el link del enlace público de netlify
     },
     {
         title: "Fuel Station",
@@ -82,7 +82,7 @@ export const projectsPortfolio = [
         ],
         description: "Application created with Vite where you can save the information and see it on a summary.",
         repository: "AQUI DEBEN COLOCAR EL LINK DEL GITHUB DEL PROYECTO",
-        website:"#!" //ustedes deben colocar aquí el link del enlace público de netlify
+        website:"https://capable-torte-9fd90e.netlify.app/" //ustedes deben colocar aquí el link del enlace público de netlify
     },
     
 ];

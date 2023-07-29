@@ -69,7 +69,7 @@ export const projectsPortfolio = [
             {name:"React Bootstrap",   src:reactBootstrapImage  },
         ],
         description: "Application of a landing page created with React JS and React Bootstrap to make a form with dynamic fields.",
-        repository: "AQUI DEBEN COLOCAR EL LINK DEL GITHUB DEL PROYECTO",
+        repository: "https://github.com/david-barrios98/dynamic-form",
         website:"#!" //ustedes deben colocar aquí el link del enlace público de netlify
     },
     {

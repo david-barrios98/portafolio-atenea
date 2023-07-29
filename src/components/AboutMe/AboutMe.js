@@ -8,19 +8,14 @@ const AboutMe = () => {
     const socialNetworks =[
         {
             name:"Github",
-            link:"https://github.com/ivandevia",
+            link:"https://github.com/david-barrios98/portafolio-atenea",
             logo:logoGithub,
         },
         {
             name:"Linkedind",
-            link:"www.linkedin.com/in/ivan-devia-acosta-38b9aa141",
+            link:"https://www.linkedin.com/in/david-enrique-barrios-rojas-3134691a3/",
             logo:logoLinkeind,
-        },
-        {
-            name:"Youtube",
-            link:"https://www.youtube.com/channel/UC2Gv4AvSJOPFQ6pjGFk7U2g",
-            logo:logoYoutube,
-        },
+        }
     ];
 
     return (
@@ -29,7 +24,7 @@ const AboutMe = () => {
                 <S.ContainerText>
                     <S.Title>
                         <p>👋🏼 Hello, i'm</p>
-                        <p>David Barrios Rojas Acosta</p>
+                        <p>David Barrios Rojas</p>
                         <p>Full stack Developer</p>
                     </S.Title>
                     <S.DescriptionText>

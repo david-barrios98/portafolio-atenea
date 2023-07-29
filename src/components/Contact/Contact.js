@@ -28,10 +28,10 @@ const Contact = () => {
         }
         else{
             emailjs.sendForm(
-                'service_tu4xqss',//AQUí va su ID DE SERVICIO EMAILJS
-                'template_cmzf7sm',//AQUÍ VA EL TEMPLATE ID
+                'service_8xw4g1l',//AQUí va su ID DE SERVICIO EMAILJS
+                'template_6qq8ije',//AQUÍ VA EL TEMPLATE ID
                 form.current,
-                'fxhZBOaHsRjcUv94j'//AQUÍ VA LA PUBLIC KEY
+                'n8_Iqnpz791DZFR2O'//AQUÍ VA LA PUBLIC KEY
             ).then(
                 (result) =>{
                     setsuccessSendForm(true);
